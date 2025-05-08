@@ -56,14 +56,14 @@ The program structure is modular, with dedicated methods for each operation, pro
 > _Make sure to place these images in a `screenshots/` folder in your repo._
 
 ### 🏠 Home Screen (Main Menu)
-![Home Screen] ![Screenshot 2025-05-07 205858.png](../../../../../../../../../Pictures/Screenshots/Screenshot%202025-05-07%20205858.png)
+![Home Screen] ![Screenshot 2025-05-07 205858.png](../../../../Pictures/Screenshots/Screenshot%202025-05-07%20205858.png)
 
 ### 🛍️ Products Display Screen
-![Products Display]![Screenshot 2025-05-07 210222.png](../../../../../../../../../Pictures/Screenshots/Screenshot%202025-05-07%20210222.png)
+![Products Display]![Screenshot 2025-05-07 210222.png](../../../../Pictures/Screenshots/Screenshot%202025-05-07%20210222.png)
 
 ### ❌ Calculator Page with Error Handling
 _This shows a failed attempt to add a product using invalid input (e.g. letters or out-of-range number)._
-![Calculator Error]![Screenshot 2025-05-07 210441.png](../../../../../../../../../Pictures/Screenshots/Screenshot%202025-05-07%20210441.png)
+![Calculator Error]![Screenshot 2025-05-07 210441.png](../../../../Pictures/Screenshots/Screenshot%202025-05-07%20210441.png)
 
 ---
 
